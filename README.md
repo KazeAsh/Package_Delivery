@@ -1,15 +1,15 @@
 WGU_Package_Delivery is a project I created at my University, Western Governors, following the required specifications (listed below).
 I made it with Python 3.8.10 with Visual Studio Code. I decided to implement a graph and a UI into my project.
 
-Western Governors University Requirements and Details:
-Introduction
+Western Governors University Requirements and Details:</br>
+Introduction</br>
 For Tasks 1 and 2, you will apply the algorithms and data structures you studied in this course to solve a real programming problem. 
 You will also implement an algorithm to route delivery trucks that will allow you to meet all delivery constraints while traveling under 140 miles. 
 You will then describe and justify the decisions you made while creating this program.
 The skills you showcase in your completed project may be useful in responding to technical interview questions for future employment. 
 This project may also be added to your portfolio to show to future employers.
 
-Scenario
+Scenario</br>
 This task is the implementation phase of the WGUPS Routing Program.
 The Western Governors University Parcel Service (WGUPS) needs to determine an efficient route and delivery distribution for their daily local deliveries (DLD)
 because packages are not currently being consistently delivered by their promised deadline. The Salt Lake City DLD route has three trucks, two drivers,
@@ -21,7 +21,7 @@ in each state where WGU has a presence. As such, you will need to include detail
 writing your scripts. The supervisor should be able to see, at assigned points, the progress of each truck and its packages by any of the variables listed in the 
 “WGUPS Package File,” including what has been delivered and at what time the delivery occurred.
 
-Assumptions
+Assumptions</br>
 •  Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
 •  The trucks travel at an average speed of 18 miles per hour and have an infinite amount of gas with no need to stop.
 •  There are no collisions.
@@ -36,14 +36,14 @@ until 10:20 a.m.
 •  The distances provided in the “WGUPS Distance Table” are equal regardless of the direction traveled.
 •  The day ends when all 40 packages have been delivered.
 
-Requirements
+Requirements</br>
 Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly 
 quoted or closely paraphrased from sources, even if cited correctly. The similarity report that is provided when you submit your task can be used as a guide.
 You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work.
 Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course.
 
 Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides, OneDrive, etc., unless specified in the task requirements. 
-All other submissions must be file types that are uploaded and submitted as attachments (e.g., .docx, .pdf, .ppt).
+All other submissions must be file types that are uploaded and submitted as attachments (e.g., .docx, .pdf, .ppt).</br>
 
 Note: Use only appropriate built-in data structures, except dictionaries. You must design, write, implement, and debug all code that you turn in for this assessment. 
 Code downloaded from the internet or acquired from another student or any other source may not be submitted and will result in automatic failure of this assessment.
