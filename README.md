@@ -80,19 +80,3 @@ trucks. (The delivery status should report the package as at the hub, en route, 
 </br>
 E.  Provide screenshots showing successful completion of the code that includes the total mileage traveled by all trucks.</br>
 </br>
-F.  Justify the package delivery algorithm used in the solution as written in the original program by doing the following:</br>
-1.  Describe two or more strengths of the algorithm used in the solution.</br>
-2.  Verify that the algorithm used in the solution meets all requirements in the scenario.</br>
-3.  Identify two other named algorithms that are different from the algorithm implemented in the solution and would meet all requirements in the scenario.</br>
-</br>
-a.  Describe how both algorithms identified in part F3 are different from the algorithm used in the solution.</br>
-</br>
-G.  Describe what you would do differently, other than the two algorithms identified in part F3, if you did this project again, including details of the modifications 
-that would be made.</br>
-</br>
-H.  Verify that the data structure used in the solution meets all requirements in the scenario.</br>
-1.  Identify two other data structures that could meet the same requirements in the scenario.</br>
-</br>
-a.  Describe how each data structure identified in H1 is different from the data structure used in the solution.</br>
-I.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.</br>
-J.  Demonstrate professional communication in the content and presentation of your submission.</br>
